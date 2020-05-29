@@ -63,7 +63,8 @@ tags: python 爬虫 词云 贴吧 Java
 ##镇楼
 		
 	*查了下，还是广告多，贴吧感觉好多都沦陷了
-![image03](/image/java_wordcloud.jpg)
+	
+![image03](/image/image2.jpg)
 
 
 
